@@ -27,7 +27,7 @@
       "uid_r": "01d268d8-fed9-41dd-9373-19d06059a289",
 	  "priorite":1,
       "nom": "Volant",
-	  "si_abonne":false
+	  "si_abonne":false,
 	  "si_defaut_creation":true
     }
   ]
