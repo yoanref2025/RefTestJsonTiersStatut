@@ -12,7 +12,8 @@
       "uid_r": "f8433ff4-bb03-4a22-a5b3-b49b8a40e00f",
 	  "priorite":1,
       "nom": "Volant",
-	  "si_abonne":false
+	  "si_abonne":false,
+	  "si_defaut_creation":true
     },
     {
       "uid": "152c0370-95a7-4a4e-b5b6-8e2a57f559d1",
@@ -27,6 +28,7 @@
 	  "priorite":1,
       "nom": "Volant",
 	  "si_abonne":false
+	  "si_defaut_creation":true
     }
   ]
 }
