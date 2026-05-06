@@ -21,7 +21,7 @@
 	  "priorite":2,
       "nom": "Passager",
 	  "si_abonne":false,
-	  "si_defaut_creation":false
+	  "si_defaut_creation":true
     },
 	{
       "uid": "14565e7c-fb5c-463d-8601-965d7f4aa163",
